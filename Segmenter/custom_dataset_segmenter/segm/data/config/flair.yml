@@ -1,0 +1,35 @@
+- color:
+  - 120
+  - 120
+  - 120
+  id: 0
+  isthing: 0
+  name: background
+- color:
+  - 180
+  - 120
+  - 120
+  id: 1
+  isthing: 0
+  name: tissue1
+- color:
+  - 6
+  - 230
+  - 230
+  id: 2
+  isthing: 0
+  name: tissue2
+- color:
+  - 80
+  - 50
+  - 50
+  id: 3
+  isthing: 0
+  name: null
+- color:
+  - 4
+  - 200
+  - 3
+  id: 4
+  isthing: 0
+  name: tissue3
